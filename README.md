@@ -25,7 +25,7 @@ A aplicação permite que o usuário interaja com uma equipe de agentes através
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/elder-moura/agente_novo/tree/main](https://github.com/elder-moura/agente_novo/tree/main)
+    git clone [https://github.com/seu-usuario/nome-do-seu-repositorio.git](https://github.com/seu-usuario/nome-do-seu-repositorio.git)
     cd SEU_REPOSITORIO
     ```
 
